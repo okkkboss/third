@@ -9,6 +9,7 @@
     "axios": "^1.2.2",
     "bcryptjs": "^2.4.3",
     "dompurify": "^2.4.1",
+    "gh-pages": "^5.0.0",
     "moment": "^2.29.4",
     "outlet": "^0.1.5",
     "react": "^18.0.0",
@@ -45,5 +46,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:8800/api/"
+  "proxy": "http://localhost:8800/api/",
+  "homepage": "https://okkkboss.github.io/third"
 }
